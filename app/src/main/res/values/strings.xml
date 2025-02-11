@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KS1Exercise</string>
+    <string name="food">Food</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="clothing">Clothing</string>
+    <string name="bill">Bill</string>
+    <string name="constant">0</string>
+    <string name="budget_use">Use of Budget:</string>
+    <string name="total_purchases">Total Purchases:</string>
+    <string name="total_purchases_amount">$0.00</string>
+</resources>
